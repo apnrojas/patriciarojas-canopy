@@ -6,9 +6,9 @@
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
       ]
     },
-    "collection": "http://cobatas-1949-1958.vercel.app/",
+    "collection": "http://patriciarojas-dados.vercel.app/",
     "featured": [
-      "http://cobatas-1949-1958.vercel.app/1949-1958_00/manifest.json"   
+      "http://patriciarojas-dados.vercel.app/1949-1958_00/manifest.json"   
     ],
     "metadata": []
   },
@@ -19,9 +19,9 @@
         "a IIIF Collection sourced site generator in Next.js for digital collections, humanities, and exhibitions"
       ]
     },
-    "collection": "http://cobatas-1949-1958.vercel.app/",
+    "collection": "http://patriciarojas-dados.vercel.app/",
     "featured": [
-      "http://cobatas-1949-1958.vercel.app/1949-1958_00/manifest.json" 
+      "http://patriciarojas-dados.vercel.app/1949-1958_00/manifest.json" 
     ],
     "metadata": []
   }
