@@ -8,7 +8,7 @@
     },
     "collection": "http://cobatas-1949-1958-iiif.vercel.app/",
     "featured": [
-      "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_00/manifest.json",   
+      "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_00/manifest.json"   
     ],
     "metadata": ["Date", "Type", "Creator"]
   },
@@ -21,7 +21,7 @@
     },
     "collection": "http://cobatas-1949-1958-iiif.vercel.app/",
     "featured": [
-      "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_00/manifest.json", 
+      "http://cobatas-1949-1958-iiif.vercel.app/1949-1958_00/manifest.json" 
     ],
     "metadata": ["Date", "Type", "Creator"]
   }
